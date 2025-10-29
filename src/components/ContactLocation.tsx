@@ -59,7 +59,7 @@ export function ContactLocation() {
                     <div>
                       <p className="text-emerald-900">Address</p>
                       <p className="text-gray-600">
-                        123, Galle Road, Colombo 03<br />
+                        123, Piliyandala<br />
                         Sri Lanka
                       </p>
                     </div>
@@ -71,8 +71,8 @@ export function ContactLocation() {
                     </div>
                     <div>
                       <p className="text-emerald-900">Phone</p>
-                      <p className="text-gray-600">+94 11 234 5678</p>
-                      <p className="text-gray-600">+94 77 123 4567 (Mobile)</p>
+                      <p className="text-gray-600">+94 11 234 56781</p>
+                      <p className="text-gray-600">+94 77 123 45672 (Mobile)</p>
                     </div>
                   </div>
 
@@ -132,14 +132,15 @@ export function ContactLocation() {
                 <div className="relative w-full h-full">
                   <iframe
                     title="Ruseth Ayurvedic Hospital Location"
-                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3960.798467128736!2d79.84354331477299!3d6.914571395010305!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae25963120b1509%3A0x2db2c18a68712863!2sColombo%2003%2C%20Sri%20Lanka!5e0!3m2!1sen!2slk!4v1234567890123!5m2!1sen!2slk"
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3961.899724427749!2d79.92042237532642!3d6.782056893215003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae24f4dac2f51ff%3A0x422d4737c5cd9971!2sRuseth%20Ayurveda%20Health%20Promotion%20Centre!5e0!3m2!1sen!2slk!4v1761755645879!5m2!1sen!2slk"
                     width="100%"
                     height="100%"
                     style={{ border: 0, minHeight: '500px' }}
                     allowFullScreen
                     loading="lazy"
                     referrerPolicy="no-referrer-when-downgrade"
-                  ></iframe>
+                  />
+
                 </div>
               </CardContent>
             </Card>

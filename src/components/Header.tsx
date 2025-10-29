@@ -7,8 +7,12 @@ export function Header() {
       <div className="container mx-auto px-4 py-4">
         <div className="flex items-center justify-between">
           <div className="flex items-center gap-2">
-            <div className="bg-emerald-600 p-2 rounded-full">
-              <Leaf className="h-6 w-6 text-white" />
+            <div className="p-1 border rounded">
+              <img
+                src="https://sakinduransindu.github.io/Ayurveda_MIS/assets/Ruseth%20LOGO-ChiNWxN2.jpg"
+                alt="Ruseth Ayurvedic Logo"
+                className="h-12 w-12 object-contain"
+              />
             </div>
             <div>
               <h1 className="text-emerald-800">Ruseth Ayurvedic Hospital</h1>
